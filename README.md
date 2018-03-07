@@ -8,4 +8,4 @@ To compile the code please make sure that the code is in "pox/pox/misc"
 Please compile the code while you are in the directory "pox" , using this command : ./pox.py log.level --DEBUG misc.src
 
 
-Done by: Alaa Abu Hantash, Wasan khaled Qarara'h and Mohammad Mazen Jammal.
+This work is done by: Alaa Abu Hantash, Wasan khaled Qarara'h and Mohammad Mazen Jammal.
